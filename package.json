@@ -1,0 +1,23 @@
+{
+  "name": "spa-vanilla",
+  "version": "0.1.0",
+  "description": "Single Page Application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bluesmoss/spa-vanilla.git"
+  },
+  "keywords": [
+    "javascript",
+    "spa"
+  ],
+  "author": "@bluesmosss",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bluesmoss/spa-vanilla/issues"
+  },
+  "homepage": "https://github.com/bluesmoss/spa-vanilla#readme"
+}
