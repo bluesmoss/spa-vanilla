@@ -1,3 +1,3 @@
+import router from './routes';
 
-console.log('Hola');
-
+window.addEventListener('load', router);
