@@ -48,6 +48,8 @@ const mobile = () => {
     let mob = /Mobi/i.test(window.navigator.userAgent);
 
     console.log("useragent", mob);
+
+    alert("isTouch: " + hasTouchScreen + " Es mobile: " + mob);
 }
 
 export default router;
